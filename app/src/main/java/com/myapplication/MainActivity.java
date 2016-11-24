@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Log.e("Welcome","Android");
         Log.e("Hey","Hey");
         Log.e("Hey","Hey");
+        String a = "Welcome good have has had very forest";
     }
 }
